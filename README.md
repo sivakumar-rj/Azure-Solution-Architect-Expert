@@ -81,3 +81,7 @@ This repository is for educational purposes. All Microsoft and Azure trademarks 
 
 **Last Updated:** March 2026  
 **Good luck with your certification journey! 🎓**
+
+---
+
+**© Copyright Sivakumar J - All Rights Reserved**

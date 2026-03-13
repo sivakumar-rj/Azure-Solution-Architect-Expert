@@ -594,3 +594,7 @@
 ✅ Monitor costs with budgets and alerts
 ✅ Right-size resources based on actual usage
 ✅ Use managed services to reduce operational overhead
+
+---
+
+**© Copyright Sivakumar J - All Rights Reserved**

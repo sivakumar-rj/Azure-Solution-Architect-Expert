@@ -73,3 +73,7 @@ Need relational data?
 ✅ Use Cosmos DB for globally distributed apps  
 ✅ Select appropriate storage tier based on access patterns  
 ✅ Use Data Factory for ETL/ELT workflows
+
+---
+
+**© Copyright Sivakumar J - All Rights Reserved**

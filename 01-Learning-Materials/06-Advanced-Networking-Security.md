@@ -888,3 +888,7 @@ az network application-gateway url-path-map create \
 ✅ **Network Monitoring:** Enable NSG flow logs and Traffic Analytics  
 ✅ **Least Privilege:** Minimal required ports and protocols only  
 ✅ **Zone Redundancy:** Deploy critical components across availability zones
+
+---
+
+**© Copyright Sivakumar J - All Rights Reserved**

@@ -69,3 +69,7 @@ Regional Layer 4 → Load Balancer
 ✅ Implement Azure Backup for critical workloads  
 ✅ Test disaster recovery procedures regularly  
 ✅ Choose appropriate load balancing solution
+
+---
+
+**© Copyright Sivakumar J - All Rights Reserved**

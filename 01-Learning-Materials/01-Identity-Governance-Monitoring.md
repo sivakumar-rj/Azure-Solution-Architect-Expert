@@ -76,3 +76,7 @@ SigninLogs
 ✅ Use Managed Identities instead of storing credentials  
 ✅ Apply Azure Policy for governance at scale  
 ✅ Enable diagnostic settings for all critical resources
+
+---
+
+**© Copyright Sivakumar J - All Rights Reserved**

@@ -645,3 +645,7 @@ Azure Cognitive Services
 ✅ **Monitoring** is critical for production systems  
 ✅ **Automation** reduces human error and recovery time  
 ✅ **Testing** DR procedures regularly ensures they work when needed
+
+---
+
+**© Copyright Sivakumar J - All Rights Reserved**

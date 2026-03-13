@@ -518,3 +518,7 @@ Health Check & Monitoring
 **Scenario 3:** Configure autoscaling (HPA + Cluster Autoscaler)  
 **Scenario 4:** Secure AKS with Azure AD and Key Vault  
 **Scenario 5:** Monitor AKS cluster with Azure Monitor and Prometheus
+
+---
+
+**© Copyright Sivakumar J - All Rights Reserved**
