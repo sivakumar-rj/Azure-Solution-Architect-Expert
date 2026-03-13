@@ -40,18 +40,16 @@ Azure-Solution-Architect-Expert/
 ├── 02-Architecture-Diagrams/  # Reference architectures and diagrams
 ├── 03-Study-Guides/           # Quick reference guides and cheat sheets
 ├── 04-Practice-Questions/     # Practice exams and scenario questions
-├── 05-Resources/              # Additional resources and links
-└── Video-References.md        # 📹 Complete video tutorials and courses
+└── 05-Resources/              # Additional resources and links
 ```
 
 ## 🚀 Getting Started
 
 1. Start with **01-Learning-Materials** - Study each domain systematically
-2. Watch **Video-References.md** - 📹 Follow video tutorials for each topic
-3. Review **02-Architecture-Diagrams** - Understand common Azure patterns
-4. Use **03-Study-Guides** - Quick revision before exam
-5. Practice with **04-Practice-Questions** - Test your knowledge
-6. Explore **05-Resources** - Additional learning materials
+2. Review **02-Architecture-Diagrams** - Understand common Azure patterns
+3. Use **03-Study-Guides** - Quick revision before exam
+4. Practice with **04-Practice-Questions** - Test your knowledge
+5. Explore **05-Resources** - Additional learning materials
 
 ## 📖 Study Path
 
