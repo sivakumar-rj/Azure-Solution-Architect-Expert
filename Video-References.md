@@ -1,258 +1,427 @@
 # Video References for Azure Solution Architect Expert (AZ-305)
 
+## 🎯 How to Find Videos
+
+**All video links change over time. Use these search terms on YouTube to find the latest content:**
+
 ## Complete Course Videos
 
 ### Official Microsoft Training
-- [AZ-305 Complete Course - Microsoft Learn](https://learn.microsoft.com/training/courses/az-305t00)
-- [Azure Architecture Center Videos](https://learn.microsoft.com/azure/architecture/browse/)
-- [Microsoft Azure YouTube Channel](https://www.youtube.com/@MicrosoftAzure)
+- **Microsoft Learn:** Search "AZ-305 Microsoft Learn" - Official training modules
+- **Azure Documentation:** docs.microsoft.com/azure
+- **Microsoft Azure YouTube:** Search "@MicrosoftAzure" channel
 
-### Full Course Playlists
+### Full Course Playlists (Search These)
 
-**John Savill's Technical Training** (Highly Recommended)
-- [AZ-305 Azure Solutions Architect Expert Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nHSnaP4ae33yQUI3zcmP5nP)
-- [Azure Master Class](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
-- Duration: 20+ hours
-- Free, comprehensive, exam-focused
+**John Savill's Technical Training** ⭐ HIGHLY RECOMMENDED
+- **YouTube Search:** "John Savill AZ-305" or "John Savill Azure Solutions Architect"
+- **Channel:** @NTFAQGuy
+- Duration: 20+ hours, Free, Comprehensive
+- Look for: "AZ-305 Azure Solutions Architect Expert" playlist
 
 **Adam Marczak - Azure for Everyone**
-- [AZ-305 Exam Preparation](https://www.youtube.com/c/Azure4Everyone)
-- [Azure Architecture Patterns](https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM)
-- Duration: 15+ hours
-- Beginner-friendly explanations
+- **YouTube Search:** "Adam Marczak AZ-305"
+- **Channel:** @Azure4Everyone  
+- Duration: 15+ hours, Beginner-friendly
+
+**FreeCodeCamp**
+- **YouTube Search:** "FreeCodeCamp Azure AZ-305"
+- Full-length courses (8-12 hours)
 
 **A Guide To Cloud**
-- [AZ-305 Study Guide](https://www.youtube.com/@AGuideToCloud)
+- **YouTube Search:** "A Guide To Cloud AZ-305"
 - Hands-on labs and demos
 
-## Domain-Specific Videos
+## Domain-Specific Video Search Terms
 
 ### Domain 1: Identity, Governance, and Monitoring
 
 **Azure Active Directory / Entra ID**
-- [Azure AD Complete Tutorial - John Savill](https://www.youtube.com/watch?v=Ma7VAQE7ga4)
-- [Conditional Access Deep Dive](https://www.youtube.com/watch?v=XruceejcCKQ)
-- [Azure AD B2B vs B2C Explained](https://www.youtube.com/watch?v=c4rNlx3xmhE)
-- [Managed Identities Tutorial](https://www.youtube.com/watch?v=aOPb-RUnbPU)
+```
+Search Terms:
+- "Azure AD complete tutorial"
+- "Azure Entra ID tutorial"
+- "Conditional Access Azure tutorial"
+- "Azure AD B2B vs B2C"
+- "Azure Managed Identity tutorial"
+- "Azure AD authentication"
+```
 
 **Azure Policy and Governance**
-- [Azure Policy Complete Guide](https://www.youtube.com/watch?v=9WO4EBgUJXk)
-- [Management Groups and Subscriptions](https://www.youtube.com/watch?v=Ea7o-GoWMxU)
-- [Azure Blueprints Tutorial](https://www.youtube.com/watch?v=cQ9D-d6KkMY)
-- [RBAC Deep Dive](https://www.youtube.com/watch?v=4v7ffXxOnwU)
+```
+Search Terms:
+- "Azure Policy tutorial"
+- "Azure Policy complete guide"
+- "Azure Management Groups tutorial"
+- "Azure Blueprints tutorial"
+- "Azure RBAC tutorial"
+- "Azure governance best practices"
+```
 
 **Monitoring and Logging**
-- [Azure Monitor Complete Tutorial](https://www.youtube.com/watch?v=v7C6h0K_mAI)
-- [Log Analytics and KQL](https://www.youtube.com/watch?v=0OMPJLIid8k)
-- [Application Insights Deep Dive](https://www.youtube.com/watch?v=A0jAeGf2zUQ)
-- [Azure Alerts and Action Groups](https://www.youtube.com/watch?v=XcDRB4TKjWM)
+```
+Search Terms:
+- "Azure Monitor complete tutorial"
+- "Log Analytics KQL tutorial"
+- "Kusto Query Language Azure"
+- "Application Insights tutorial"
+- "Azure Monitor alerts tutorial"
+- "Azure diagnostic settings"
+```
 
 ### Domain 2: Data Storage Solutions
 
 **Azure SQL Database**
-- [Azure SQL Database Complete Guide](https://www.youtube.com/watch?v=BgvEOkcR0Wk)
-- [SQL Database High Availability](https://www.youtube.com/watch?v=4oDQRKNbLBo)
-- [Active Geo-Replication Tutorial](https://www.youtube.com/watch?v=aUomAXlZbRM)
-- [SQL Managed Instance Deep Dive](https://www.youtube.com/watch?v=iXRhz7iKKBU)
+```
+Search Terms:
+- "Azure SQL Database tutorial"
+- "Azure SQL high availability"
+- "Active geo-replication Azure SQL"
+- "SQL Managed Instance tutorial"
+- "Azure SQL backup and restore"
+- "SQL Database auto-failover groups"
+```
 
 **Azure Cosmos DB**
-- [Cosmos DB Complete Tutorial](https://www.youtube.com/watch?v=R_Fi59j6BMo)
-- [Cosmos DB Consistency Levels Explained](https://www.youtube.com/watch?v=t1--kZgkdko)
-- [Global Distribution Setup](https://www.youtube.com/watch?v=qFOyJTCqNPw)
-- [Cosmos DB Partitioning Strategy](https://www.youtube.com/watch?v=SS6WsTyh-ro)
+```
+Search Terms:
+- "Cosmos DB complete tutorial"
+- "Cosmos DB consistency levels"
+- "Cosmos DB global distribution"
+- "Cosmos DB partitioning strategy"
+- "Cosmos DB pricing explained"
+- "Cosmos DB vs MongoDB"
+```
 
 **Azure Storage**
-- [Blob Storage Complete Guide](https://www.youtube.com/watch?v=9Qvj-KLlhqM)
-- [Storage Tiers and Lifecycle Management](https://www.youtube.com/watch?v=XlwwJNNjK7M)
-- [Azure Files Tutorial](https://www.youtube.com/watch?v=BCzeb0IAy2k)
-- [Data Lake Storage Gen2](https://www.youtube.com/watch?v=mXAZ0qLRvYE)
+```
+Search Terms:
+- "Azure Blob Storage tutorial"
+- "Storage tiers Azure"
+- "Azure Files tutorial"
+- "Data Lake Storage Gen2"
+- "Storage lifecycle management"
+- "Azure Storage security"
+```
 
 **Data Integration**
-- [Azure Data Factory Complete Course](https://www.youtube.com/watch?v=EpDkxTHAhOs)
-- [Azure Synapse Analytics Tutorial](https://www.youtube.com/watch?v=fL3vw8y_8MQ)
-- [Event Hubs Deep Dive](https://www.youtube.com/watch?v=DDDjFQSQyF4)
-- [Stream Analytics Tutorial](https://www.youtube.com/watch?v=NbGmyjgY0pU)
+```
+Search Terms:
+- "Azure Data Factory tutorial"
+- "Azure Synapse Analytics tutorial"
+- "Event Hubs tutorial"
+- "Stream Analytics tutorial"
+- "Azure Data Factory pipelines"
+- "ETL Azure Data Factory"
+```
 
 ### Domain 3: Business Continuity Solutions
 
 **Backup and Disaster Recovery**
-- [Azure Backup Complete Guide](https://www.youtube.com/watch?v=8ZhLv-swMh8)
-- [Azure Site Recovery Tutorial](https://www.youtube.com/watch?v=Xm3hknKgLRE)
-- [VM Backup and Restore](https://www.youtube.com/watch?v=vhWftc8g6jQ)
-- [SQL Database Backup Strategies](https://www.youtube.com/watch?v=qDr-jgWKd0g)
+```
+Search Terms:
+- "Azure Backup complete guide"
+- "Azure Site Recovery tutorial"
+- "VM backup Azure"
+- "SQL backup strategies Azure"
+- "Azure backup policies"
+- "Disaster recovery Azure"
+```
 
 **High Availability**
-- [Availability Zones Explained](https://www.youtube.com/watch?v=hZYAzAk1zXk)
-- [Availability Sets vs Zones](https://www.youtube.com/watch?v=9ShPPoblhzs)
-- [Load Balancer Deep Dive](https://www.youtube.com/watch?v=wJvmxM799zo)
-- [Traffic Manager Tutorial](https://www.youtube.com/watch?v=MfPJbZmh_Hs)
+```
+Search Terms:
+- "Azure Availability Zones explained"
+- "Availability Sets vs Zones"
+- "Azure Load Balancer tutorial"
+- "Traffic Manager Azure"
+- "Azure Front Door tutorial"
+- "High availability architecture Azure"
+```
 
 ### Domain 4: Infrastructure Solutions
 
 **Virtual Machines**
-- [Azure VMs Complete Tutorial](https://www.youtube.com/watch?v=inaXkN2UrFE)
-- [VM Scale Sets Deep Dive](https://www.youtube.com/watch?v=Dhvv8jvlXPQ)
-- [VM Sizing and Selection](https://www.youtube.com/watch?v=ehEHMEYBT6E)
+```
+Search Terms:
+- "Azure VMs complete tutorial"
+- "VM Scale Sets Azure"
+- "Azure VM sizing guide"
+- "VM high availability Azure"
+- "Azure VM best practices"
+```
 
 **Azure App Service**
-- [App Service Complete Guide](https://www.youtube.com/watch?v=4BwyqmRTrx8)
-- [Deployment Slots Tutorial](https://www.youtube.com/watch?v=ufHGm3bsLqE)
-- [App Service Auto-scaling](https://www.youtube.com/watch?v=TBZihMXtJqE)
+```
+Search Terms:
+- "App Service complete guide"
+- "App Service deployment slots"
+- "App Service auto-scaling"
+- "App Service VNet integration"
+- "App Service best practices"
+```
 
 **Azure Kubernetes Service (AKS)**
-- [AKS Complete Course - 4 Hours](https://www.youtube.com/watch?v=DW8kqJTikDA)
-- [AKS Networking Deep Dive](https://www.youtube.com/watch?v=JyLtg_SJ1lo)
-- [AKS Security Best Practices](https://www.youtube.com/watch?v=YL7CRkygMdM)
-- [AKS Autoscaling Tutorial](https://www.youtube.com/watch?v=jfWGhVoG8yg)
-- [Helm Charts Tutorial](https://www.youtube.com/watch?v=Zzwq9FmZdsU)
+```
+Search Terms:
+- "AKS complete course"
+- "AKS tutorial for beginners"
+- "AKS networking deep dive"
+- "AKS security best practices"
+- "AKS autoscaling tutorial"
+- "Helm charts tutorial"
+- "Kubernetes on Azure"
+```
 
 **Containers and Docker**
-- [Docker Complete Tutorial](https://www.youtube.com/watch?v=fqMOX6JJhGo)
-- [Azure Container Registry](https://www.youtube.com/watch?v=Vy0RbGzKv4Y)
-- [Container Instances Tutorial](https://www.youtube.com/watch?v=jAWLQFi4USk)
+```
+Search Terms:
+- "Docker complete tutorial"
+- "Azure Container Registry tutorial"
+- "Container Instances Azure"
+- "Docker for beginners"
+- "Dockerfile tutorial"
+```
 
 **Azure Functions**
-- [Azure Functions Complete Guide](https://www.youtube.com/watch?v=zIfxkub7CLY)
-- [Durable Functions Tutorial](https://www.youtube.com/watch?v=8IAxBjHnxVU)
-- [Functions Best Practices](https://www.youtube.com/watch?v=WJIpXXV0rKk)
+```
+Search Terms:
+- "Azure Functions complete guide"
+- "Durable Functions tutorial"
+- "Azure Functions best practices"
+- "Serverless Azure tutorial"
+```
 
 **Networking**
-- [Azure Networking Complete Course - 3 Hours](https://www.youtube.com/watch?v=K8ePZdLfU7M)
-- [VNet Peering Tutorial](https://www.youtube.com/watch?v=gXR4YXJjlME)
-- [VPN Gateway Setup](https://www.youtube.com/watch?v=7jH0Qn0E7Hs)
-- [ExpressRoute Explained](https://www.youtube.com/watch?v=oevwZZ1YFS0)
-- [Private Endpoints Deep Dive](https://www.youtube.com/watch?v=vM7yDwHSc_o)
+```
+Search Terms:
+- "Azure networking complete course"
+- "VNet peering tutorial"
+- "VPN Gateway Azure"
+- "ExpressRoute explained"
+- "Private endpoints Azure"
+- "Azure networking fundamentals"
+```
 
 **Network Security**
-- [Azure Firewall Complete Guide](https://www.youtube.com/watch?v=qRDDCj9vD7s)
-- [Application Gateway + WAF](https://www.youtube.com/watch?v=Vp0c8jPpV8w)
-- [NSG Deep Dive](https://www.youtube.com/watch?v=vAzBKHgzhBU)
-- [Azure Front Door Tutorial](https://www.youtube.com/watch?v=3PQLLsTNJU4)
-- [DDoS Protection Setup](https://www.youtube.com/watch?v=0Qf3KmFsI5Q)
+```
+Search Terms:
+- "Azure Firewall complete guide"
+- "Application Gateway WAF tutorial"
+- "NSG Azure tutorial"
+- "Azure Front Door tutorial"
+- "DDoS Protection Azure"
+- "Network security best practices Azure"
+```
 
 **Migrations**
-- [Azure Migrate Complete Guide](https://www.youtube.com/watch?v=5DRLGEJnxqE)
-- [Database Migration Service](https://www.youtube.com/watch?v=zBLIvmz5nLs)
-- [VM Migration Tutorial](https://www.youtube.com/watch?v=dJSwFRPHZhQ)
+```
+Search Terms:
+- "Azure Migrate complete guide"
+- "Database Migration Service Azure"
+- "VM migration to Azure"
+- "Migration strategies Azure"
+```
 
-## Architecture Patterns and Use Cases
+## Architecture Patterns
 
-**Reference Architectures**
-- [N-Tier Application Architecture](https://www.youtube.com/watch?v=XqbBp1jhRwM)
-- [Microservices Architecture on Azure](https://www.youtube.com/watch?v=0qvCgnqGjJM)
-- [Hub-Spoke Network Topology](https://www.youtube.com/watch?v=cGXJH0qJLqE)
-- [Multi-Region Architecture](https://www.youtube.com/watch?v=8g6E6qV-h2s)
+```
+Search Terms:
+- "N-tier architecture Azure"
+- "Microservices architecture Azure"
+- "Hub-spoke network topology Azure"
+- "Multi-region architecture Azure"
+- "Azure reference architectures"
+- "Cloud design patterns Azure"
+```
 
-**Real-World Scenarios**
-- [E-Commerce Platform on Azure](https://www.youtube.com/watch?v=kKhmHXk2Vgc)
-- [IoT Solution Architecture](https://www.youtube.com/watch?v=HUFqiVJXnLg)
-- [Healthcare Application on Azure](https://www.youtube.com/watch?v=Zy8ueiy_5Xw)
-- [Financial Services Architecture](https://www.youtube.com/watch?v=7qXgtUSWLSk)
+## Real-World Use Cases
+
+```
+Search Terms:
+- "E-commerce platform Azure"
+- "IoT solution architecture Azure"
+- "Healthcare application Azure"
+- "Financial services architecture Azure"
+- "Azure architecture case studies"
+```
 
 ## Security and Compliance
 
-**Security Best Practices**
-- [Azure Security Complete Course](https://www.youtube.com/watch?v=pTHv0x1nFxE)
-- [Zero Trust Architecture](https://www.youtube.com/watch?v=i2Rl5Gg_Qlw)
-- [Azure Key Vault Tutorial](https://www.youtube.com/watch?v=AA3yYg9Zq9w)
-- [Microsoft Defender for Cloud](https://www.youtube.com/watch?v=0XA2XdAf7Ik)
-
-**Compliance**
-- [Azure Compliance Overview](https://www.youtube.com/watch?v=r1Mpg0u1hsM)
-- [HIPAA Compliance on Azure](https://www.youtube.com/watch?v=8qF7L8j1xYE)
-- [PCI DSS Compliance](https://www.youtube.com/watch?v=KhPutQiN5JA)
+```
+Search Terms:
+- "Azure security complete course"
+- "Zero Trust architecture Azure"
+- "Azure Key Vault tutorial"
+- "Microsoft Defender for Cloud"
+- "Azure compliance tutorial"
+- "HIPAA compliance Azure"
+```
 
 ## Cost Optimization
 
-- [Azure Cost Management Complete Guide](https://www.youtube.com/watch?v=el4yN5cHGd0)
-- [Reserved Instances Explained](https://www.youtube.com/watch?v=vpTDi1lvpHI)
-- [Azure Hybrid Benefit Tutorial](https://www.youtube.com/watch?v=MZRmRN8xXxE)
-- [Cost Optimization Best Practices](https://www.youtube.com/watch?v=RjuTQvGm1zQ)
-
-## Hands-On Labs and Demos
-
-**Microsoft Learn Sandbox**
-- [Interactive Azure Labs](https://learn.microsoft.com/training/browse/?products=azure&resource_type=learning%20path)
-
-**Hands-On Tutorials**
-- [Deploy 3-Tier App on Azure](https://www.youtube.com/watch?v=iXqZYbw8eMU)
-- [Setup AKS Cluster from Scratch](https://www.youtube.com/watch?v=DW8kqJTikDA)
-- [Configure Azure Firewall](https://www.youtube.com/watch?v=qRDDCj9vD7s)
-- [Setup Site Recovery](https://www.youtube.com/watch?v=Xm3hknKgLRE)
+```
+Search Terms:
+- "Azure cost management tutorial"
+- "Reserved instances Azure"
+- "Azure Hybrid Benefit explained"
+- "Cost optimization Azure"
+- "Azure pricing calculator tutorial"
+```
 
 ## Exam Preparation
 
-**Exam Tips and Strategy**
-- [AZ-305 Exam Tips - John Savill](https://www.youtube.com/watch?v=vq9LuCM4YP4)
-- [How to Pass AZ-305 First Try](https://www.youtube.com/watch?v=vWqNqmUzHzE)
-- [AZ-305 Study Strategy](https://www.youtube.com/watch?v=8ZhLv-swMh8)
+```
+Search Terms:
+- "AZ-305 exam tips"
+- "How to pass AZ-305"
+- "AZ-305 study guide"
+- "AZ-305 practice questions"
+- "Azure architect exam preparation"
+```
 
-**Practice Questions**
-- [AZ-305 Practice Questions Walkthrough](https://www.youtube.com/watch?v=KhPutQiN5JA)
-- [Case Study Examples](https://www.youtube.com/watch?v=7qXgtUSWLSk)
+## Recommended YouTube Channels
+
+**Subscribe to these channels for regular updates:**
+
+1. **John Savill's Technical Training** (@NTFAQGuy)
+   - Most comprehensive Azure content
+   - Weekly updates
+   - Deep technical dives
+
+2. **Adam Marczak - Azure for Everyone** (@Azure4Everyone)
+   - Beginner-friendly
+   - Short, focused videos
+   - Regular updates
+
+3. **Microsoft Azure** (@MicrosoftAzure)
+   - Official content
+   - Product announcements
+   - Azure Friday series
+
+4. **A Guide To Cloud** (@AGuideToCloud)
+   - Hands-on tutorials
+   - Certification prep
+
+5. **Cloud Skills** (@CloudSkills)
+   - Career guidance
+   - Certification tips
+
+6. **Travis Media** (@TravisMedia)
+   - Cloud career advice
+   - Certification journey
+
+7. **FreeCodeCamp** (@freecodecamp)
+   - Full-length courses
+   - Free content
+
+## How to Search Effectively
+
+### YouTube Search Tips:
+```
+1. Use quotes for exact phrases: "Azure AKS tutorial"
+2. Add year for recent content: "AZ-305 2026"
+3. Filter by upload date: Tools → Upload date → This year
+4. Sort by view count for popular content
+5. Check video length (prefer 30+ min for deep dives)
+6. Look for playlists for organized learning
+```
+
+### Google Search Tips:
+```
+site:youtube.com "AZ-305" "John Savill"
+site:learn.microsoft.com "Azure architecture"
+site:docs.microsoft.com "AKS tutorial"
+```
 
 ## Weekly Study Plan with Videos
 
 ### Week 1-2: Identity, Governance, Monitoring
-- Day 1-2: Azure AD (4 hours of videos)
-- Day 3-4: Azure Policy and Governance (3 hours)
-- Day 5-6: Monitoring and Logging (3 hours)
-- Day 7: Review and hands-on labs
+- Search and watch: Azure AD tutorials (4 hours)
+- Search and watch: Azure Policy tutorials (3 hours)
+- Search and watch: Azure Monitor tutorials (3 hours)
+- Hands-on labs
 
 ### Week 3-4: Data Storage Solutions
-- Day 1-2: Azure SQL Database (4 hours)
-- Day 3-4: Cosmos DB and Storage (4 hours)
-- Day 5-6: Data Integration (3 hours)
-- Day 7: Review and hands-on labs
+- Search and watch: Azure SQL tutorials (4 hours)
+- Search and watch: Cosmos DB tutorials (4 hours)
+- Search and watch: Data Factory tutorials (3 hours)
+- Hands-on labs
 
 ### Week 5: Business Continuity
-- Day 1-2: Backup and DR (3 hours)
-- Day 3-4: High Availability (3 hours)
-- Day 5-7: Review and hands-on labs
+- Search and watch: Backup and DR tutorials (3 hours)
+- Search and watch: High availability tutorials (3 hours)
+- Hands-on labs
 
 ### Week 6-7: Infrastructure Solutions
-- Day 1-2: Compute Services (4 hours)
-- Day 3-4: AKS and Containers (5 hours)
-- Day 5-6: Networking (4 hours)
-- Day 7-8: Network Security (3 hours)
-- Day 9-10: Migrations (2 hours)
-- Day 11-14: Review and hands-on labs
+- Search and watch: Compute services tutorials (4 hours)
+- Search and watch: AKS tutorials (5 hours)
+- Search and watch: Networking tutorials (4 hours)
+- Search and watch: Security tutorials (3 hours)
+- Hands-on labs
 
 ### Week 8: Final Review
-- Day 1-3: Watch exam tips videos
-- Day 4-5: Practice questions
-- Day 6-7: Review weak areas
+- Search and watch: Exam tips videos
+- Practice questions
+- Review weak areas
 
-## Additional Resources
+## Additional Learning Resources
 
-**Podcasts**
-- [Azure Friday](https://learn.microsoft.com/shows/azure-friday/)
-- [The Azure Podcast](https://azpodcast.azurewebsites.net/)
+**Microsoft Learn (Free):**
+- learn.microsoft.com/training
+- Interactive labs
+- Sandbox environments
 
-**Live Streams**
-- [Azure Live TV](https://learn.microsoft.com/shows/azure-live/)
-- [Microsoft Reactor Events](https://developer.microsoft.com/reactor/)
+**Microsoft Documentation:**
+- docs.microsoft.com/azure
+- Official reference
+- Code samples
 
-**Community Channels**
-- [Azure Community YouTube](https://www.youtube.com/@AzureCommunity)
-- [Cloud Skills YouTube](https://www.youtube.com/@CloudSkills)
+**Azure Architecture Center:**
+- learn.microsoft.com/azure/architecture
+- Reference architectures
+- Best practices
+
+**Hands-On Labs:**
+- Microsoft Learn Sandbox
+- Azure Free Account ($200 credit)
+- GitHub Azure samples
 
 ## Tips for Video Learning
 
-✅ Watch at 1.25x or 1.5x speed to save time  
+✅ Watch at 1.25x-1.5x speed to save time  
 ✅ Take notes while watching  
-✅ Pause and try hands-on labs immediately  
+✅ Pause and try hands-on immediately  
 ✅ Rewatch complex topics  
-✅ Use YouTube chapters to jump to specific sections  
+✅ Use YouTube chapters to jump to sections  
 ✅ Enable subtitles for better understanding  
 ✅ Create playlists for each domain  
-✅ Watch on multiple devices (phone during commute)  
+✅ Download videos for offline viewing  
 ✅ Join live Q&A sessions when available  
-✅ Subscribe to channels for updates
+✅ Subscribe to channels for updates  
+✅ Set up notifications for new content  
+✅ Use mobile app for learning on-the-go
+
+## Community and Support
+
+**Forums:**
+- Microsoft Q&A (learn.microsoft.com/answers)
+- Reddit r/Azure
+- Stack Overflow (tag: azure)
+
+**Discord/Slack:**
+- Azure Community Discord
+- Cloud Study Groups
+
+**LinkedIn:**
+- Follow Azure MVPs
+- Join Azure groups
 
 ---
 
-**Note:** Video links are subject to change. Search for the latest versions on YouTube if links are broken.
+**Note:** Video content changes frequently. Always search for the latest videos. Look for content uploaded within the last 1-2 years for most current information.
+
+**Pro Tip:** Bookmark videos you find helpful and create your own YouTube playlists organized by exam domain!
 
 ---
 
