@@ -84,4 +84,4 @@ This repository is for educational purposes. All Microsoft and Azure trademarks 
 
 ---
 
-**© Copyright Sivakumar J - All Rights Reserved**
+**© Copyright Sivakumar J**

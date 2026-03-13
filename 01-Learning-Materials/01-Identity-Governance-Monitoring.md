@@ -79,4 +79,4 @@ SigninLogs
 
 ---
 
-**© Copyright Sivakumar J - All Rights Reserved**
+**© Copyright Sivakumar J**

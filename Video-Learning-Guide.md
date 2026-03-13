@@ -79,4 +79,4 @@ Instead of relying on specific links that may break:
 
 ---
 
-**© Copyright Sivakumar J - All Rights Reserved**
+**© Copyright Sivakumar J**

@@ -891,4 +891,4 @@ az network application-gateway url-path-map create \
 
 ---
 
-**© Copyright Sivakumar J - All Rights Reserved**
+**© Copyright Sivakumar J**

@@ -72,4 +72,4 @@ Regional Layer 4 → Load Balancer
 
 ---
 
-**© Copyright Sivakumar J - All Rights Reserved**
+**© Copyright Sivakumar J**

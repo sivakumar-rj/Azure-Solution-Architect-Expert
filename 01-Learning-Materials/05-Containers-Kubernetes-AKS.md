@@ -521,4 +521,4 @@ Health Check & Monitoring
 
 ---
 
-**© Copyright Sivakumar J - All Rights Reserved**
+**© Copyright Sivakumar J**

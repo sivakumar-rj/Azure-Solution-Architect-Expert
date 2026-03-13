@@ -149,4 +149,4 @@ D) Azure Traffic Manager
 
 ---
 
-**© Copyright Sivakumar J - All Rights Reserved**
+**© Copyright Sivakumar J**
