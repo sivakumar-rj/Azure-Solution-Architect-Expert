@@ -1,13 +1,3 @@
-# Azure Solution Architect Expert - LinkedIn Post
-
-## 🎓 Comprehensive AZ-305 Certification Study Resource
-
-I'm excited to share my complete **Azure Solution Architect Expert (AZ-305)** learning repository on GitHub! This comprehensive resource is designed to help aspiring Azure architects prepare for the certification exam.
-
-**Repository:** https://github.com/sivakumar-rj/Azure-Solution-Architect-Expert
-
----
-
 ## 📚 What's Inside
 
 ### 1️⃣ Learning Materials (12 Comprehensive Guides)
